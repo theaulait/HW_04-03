@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class DistributionCalculator
 {
-    public static void main(String[] args)
+  /*  public static void main(String[] args)
     {
         System.out.println(calculate("/Users/c4q-vanice/Desktop/accesscode/HW_04-03/src/nyc/c4q/theaulait/Test.txt"));
     }
@@ -16,4 +16,5 @@ public class DistributionCalculator
         ArrayList<String> percentage = new ArrayList<String>();
 
     }
+    */
 }
