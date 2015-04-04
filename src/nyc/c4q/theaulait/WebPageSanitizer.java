@@ -2,7 +2,8 @@ package nyc.c4q.theaulait;
 /**
  * Created by c4q-vanice on 4/3/15.
  */
-// I am not sure if it produced the output the assignment asked for but it did not give me an error.
+
+// I am not sure if the code is producing the output the assignment asked, for but it did not give me an error.
 
 import java.net.URL;
 import java.util.Scanner;
